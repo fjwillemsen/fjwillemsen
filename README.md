@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my GitHub profile!
+If this profile has you interested, be sure to visit [fjwillemsen.com](https://fjwillemsen.com/#/).
+
+<h3><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjwillemsen&theme=tokyonight"><img height="200" src="https://github-readme-stats.vercel.app/api?username=fjwillemsen&theme=tokyonight"></h3>
+
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/kernel_tuner?label=Kernel%20Tuner%20downloads%20(PyPI)">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/python-constraint?label=Python-Constraint%20downloads%20(PyPI)">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/fjwillemsen/NativeOverleaf/total?label=Native%20Overleaf%20downloads">
 
 <!--
 **fjwillemsen/fjwillemsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
